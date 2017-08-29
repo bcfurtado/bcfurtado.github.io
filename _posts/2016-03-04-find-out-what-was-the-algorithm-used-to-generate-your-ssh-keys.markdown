@@ -11,7 +11,8 @@ I create my ssh keys at some long time ago I do not even remember with was the a
 Lucky you can type this for find it out:
 
 ```sh
-[palvarez@oizon ~]$ ssh-keygen -l -f ~/.ssh/id_rsa.pub 2048 2e:8c:fd:aa:9f:95:86:9e:b0:d2:a6:1a:7e:d3:3e:74 .ssh/id_rsa.pub (RSA)
+[palvarez@oizon ~]$ ssh-keygen -l -f ~/.ssh/id_rsa.pub
+2048 2e:8c:fd:aa:9f:95:86:9e:b0:d2:a6:1a:7e:d3:3e:74 .ssh/id_rsa.pub (RSA)
 ```
 
 
