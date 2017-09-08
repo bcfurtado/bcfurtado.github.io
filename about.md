@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm software engineer passionated by code and quality.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm formed by Federal University of Ceará with experience working as Android and Web Developer. Programmer since I had fifteen, for me, software should be done with quality, so this include making tests, using patterns, continuous delivery all the others best practices of software development.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Professionally, I have been working with Java and Python, but I already had coded in another’s several languages just for fun like ruby, php, c , c# and this bring me to another thing: for me don’t exist better language or better environment, what exist are specific languages and tools that resolve the problem in the better way. Today I'm focusing my studies in languages like python and javascript. Distributed systems, real-time applications and big data also are in my list.
+
+I have a particularly an interest in backend applications, integrations applications, big data, realtime applications and API design.
