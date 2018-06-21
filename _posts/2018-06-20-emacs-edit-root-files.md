@@ -6,7 +6,7 @@ categories: everydayisanewday emacs
 ---
 Why use `vi/vim` to edit root files when you can use Emacs to do it?
 
-Emacs TRAMP mode allows you to easily access and edit remote files as if they were local. So you get the benefits of using all your local settings without the need to close your current instance or open a new one.
+Emacs TRAMP mode allows you to easily access and edit remote files as if they were local. So you get the benefits of using all your local settings without the need of close your current instance or open a new one.
 
 I don't use TRAMP frequently because I don't need to edit remote files anymore as I used to but it's interesting to share that you can use TRAMP to edit root local files as long you have `sudo` permissions.
 
@@ -30,7 +30,7 @@ A gif worth more than 1000 words:
 
 ![Editing root files with emacs.](/assets/images/2018-06-20-emacs-edit-root-files.gif)
 
-You can actually use `TRAMP` to open a new dired buffer as root and then all the following buffer will be opened as sudo.
+You can actually use `TRAMP` to open a new dired buffer as root using using `C-x D`  and then all the following buffers will be opened as sudo.
 
 References:
 - [https://www.gnu.org/software/tramp/](https://www.gnu.org/software/tramp/)
