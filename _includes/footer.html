@@ -43,4 +43,6 @@
   </div>
 
 </footer>
+{% if jekyll.environment == 'production' %}
 <script src="{{ "/assets/js/ga.js" | prepend: site.baseurl }}"></script>
+{% endif %}
