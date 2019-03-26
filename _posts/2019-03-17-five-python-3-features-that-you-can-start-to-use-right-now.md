@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Five Python 3 features that you can start to use right now"
-date:   2019-03-20 00:00:00 -0200
-categories: 
+date:   2019-03-17 00:00:00 -0200
+categories: python
 ---
 
 2020 is close and with it, the end of life of Python 2. The first Python 3 release completed [10 years](https://www.python.org/download/releases/3.0/) last year. However, [25%](https://www.jetbrains.com/research/python-developers-survey-2017/) of Python developers are still using Python 2.
