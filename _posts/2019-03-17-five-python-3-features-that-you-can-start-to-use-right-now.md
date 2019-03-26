@@ -7,7 +7,9 @@ categories: python
 
 2020 is close and with it, the end of life of Python 2. The first Python 3 release completed [10 years](https://www.python.org/download/releases/3.0/) last year. However, [25%](https://www.jetbrains.com/research/python-developers-survey-2017/) of Python developers are still using Python 2.
 
-If you already have experience with Python 3, the features that will present here aren't new for you, but if somehow just jumped into a Python 3 code base, these five features can be handy.
+If you previously had experience with Python 3, the features that I
+will present here aren't new for you, but if somehow you just jumped
+into a Python 3 code base, these five features can be handy.
 They are somewhat focused on readability.
 
 
