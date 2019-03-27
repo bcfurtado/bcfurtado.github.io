@@ -6,7 +6,7 @@ categories: python
 ---
 
 2020 is close and with it, the end of life of Python 2. The first
-Python 3 release completed [10 years][1] last year. However, [25%][2]
+Python 3 release was [10 years][1] ago last year. However, [25%][2]
 of Python developers are still using Python 2.
 
 If you previously had experience with Python 3, the features that I
@@ -33,7 +33,7 @@ I like Python string formatting.
 'Hi! My name is John Doe.'
 ```
 
-But Python 3 made it even better. Now we can archive the samething
+But Python 3 made it even better. Now we can achieve the same thing
 using `f-strings`:
 
 ```python
@@ -152,7 +152,7 @@ def create_user(email, password, is_active=True, is_valid=True, group=None):
 >>> create_user('user@local.com', '12345', True, True, 'Admin')
 ```
 
-I'll say to you. It's not explicit. It makes hard understand what all
+I'll say to you. It's not explicit. It makes hard to understand what all
 these parameters means, and there's no way to enforce the keywords
 parameters to be used with Python 2. Until now:
 
@@ -167,7 +167,7 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 TypeError: create_user() takes 0 positional arguments but 2 were given
 
-# It should be invoke using keyword arguments only.
+# It should be invoked using keyword arguments only.
 create_user(email='email@local.com', password='1234', group=True)
 ```
 
@@ -191,7 +191,7 @@ TypeError: create_user() takes 2 positional arguments but 4 were given
 
 ## Conclusion
 Python 3 has some very nice features that you can start to use right
-now. If you got interested, I recommend take a look on
+now. If this interests you, I recommend taking a look at
 [@asmeurer's][4] [presentation][5].
 
 
