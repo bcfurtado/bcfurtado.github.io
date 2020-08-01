@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm software engineer passionated by code and quality.
+I'm a Software Engineer passionate about code and quality with experience developing SAAS applications.
 
-I'm formed by Federal University of Ceará with experience working as Android and Web Developer. Programmer since I had fifteen, for me, software should be done with quality, so this include making tests, using patterns, continuous delivery all the others best practices of software development.
+I'm a big believer that software should be done with quality, which includes writing tests, using the best engineering practices, and having a continuous improvement mindset with a high dose of ownership.
 
-Professionally, I have been working with Java and Python, but I already had coded in another’s several languages just for fun like ruby, php, c , c# and this bring me to another thing: for me don’t exist better language or better environment, what exist are specific languages and tools that resolve the problem in the better way. Today I'm focusing my studies in languages like python and javascript. Distributed systems, real-time applications and big data also are in my list.
+Professionally, I have been working with Java and Python, but I have coded in several languages just for fun such as Ruby, PHP, C, C#, and Lisp. I don't believe in better languages or better environments. I believe in choosing the right tools for the right job.
 
-I have a particularly an interest in backend applications, integrations applications, big data, realtime applications and API design.
+Most recently I have been working extensively with python and javascript.
+
+I have a particular interest in distributed systems, real-time applications, big data, backend applications, and API design.
